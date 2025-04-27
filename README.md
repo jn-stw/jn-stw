@@ -1,6 +1,4 @@
-# About Me | Jan Stüwe
-
-## Hi, I'm Jan Stüwe! 👋
+# Hi, I'm Jan! 👋
 
 I'm a **Data Scientist** with a strong foundation in **mathematics**, **statistics**, and **machine learning**. I specialize in developing interpretable models and applying rigorous analytical methods to extract meaningful insights from complex data. I am passionate about bridging **theoretical knowledge** with **practical applications**, delivering impactful solutions to real-world problems.
 
