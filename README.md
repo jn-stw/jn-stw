@@ -1,73 +1,36 @@
 # Hi, I'm Jan! 👋
 
-I'm a **Data Scientist** with a strong foundation in **mathematics**, **statistics**, and **machine learning**. I specialize in developing interpretable models and applying rigorous analytical methods to extract meaningful insights from complex data. I am passionate about bridging **theoretical knowledge** with **practical applications**, delivering impactful solutions to real-world problems.
+I'm a **Data Scientist** with a strong foundation in **mathematics**, **statistics**, and **machine learning**. I build **interpretable models** and apply **rigorous analytics** to solve real-world problems.
 
 ---
 
-## Skills and Technologies I Work With 🔧
-
-- **Languages**: Python, R, Matlab, SQL, HTML, CSS
-- **Data Science Libraries**: Numpy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras, Pytorch
-- **Tools & Technologies**: Git, Linux, LaTeX
-- **Machine Learning & AI**: Deep Learning, Natural Language Processing, Classification, Regression, Clustering
-- **Visualization & Reporting**: Matplotlib, Seaborn, Plotly
-
----
-
-## My Education 🎓
-
-### Bachelor of Science in **Data Science**  
-**Catholic University Eichstätt-Ingolstadt**  
-*Specialization: Applied Mathematics and Scientific Computing*  
+## Skills 🔧
+- **Languages**: Python, R, Matlab, SQL, HTML/CSS  
+- **Libraries**: Numpy, Pandas, Scikit-Learn, TensorFlow, Keras, PyTorch  
+- **Tools**: Git, Linux, LaTeX  
+- **Topics**: Deep Learning, NLP, Clustering, Classification, Regression  
+- **Visualization**: Matplotlib, Seaborn, Plotly
 
 ---
 
-## My Work Experience 💼
+## Education 🎓
+**B.Sc. Data Science** – Catholic University Eichstätt-Ingolstadt  
+*Specialization: Applied Mathematics & Scientific Computing*
 
-### Internship – **Data Science**  
-**BMW AG, München** (02/2025 – 04/2025)  
-- Worked on clustering and statistical analysis of automotive data, utilizing partitioning, hierarchical, and density-based clustering techniques.
-- Applied stratified sampling and rigorous statistical analysis to ensure data representativeness and robustness of models.
+---
+
+## Experience 💼
+**Data Science Intern** – BMW AG, München (02/2025–04/2025)  
+- Clustering and statistical analysis of automotive data.
+- Applied stratified sampling for robust modeling.
 
 ---
 
 ## Projects 🚀
-
-Here are some of the exciting projects I’ve worked on:
-
-1. **Time-to-sell Prediction with Audi**  
-   - Collaborated in a team of four to develop a deep learning model predicting the time it takes to sell cars.
-   - Achieved a margin of error of just 9 days with interpretable results using a Generalized Additive Model (GAM).
-
-2. **[Fake News Classification](https://github.com/jn-stw/ML_fakenews_detection)**  
-   - A project focused on classifying news as fake or true using both classical machine learning and modern deep learning approaches.
-   - Achieved highly reliable results with extensive data preprocessing and feature engineering.
-   
----
-
-## Let's Connect! 🤝
-
-- **Website**: [janstuewe.com](http://janstuewe.com)
-- **LinkedIn**: [linkedin.com/in/jn-stw](https://www.linkedin.com/in/jn-stw/)
-- **GitHub**: [github.com/jn-stw](https://github.com/jn-stw)
-- **Email**: [mail@janstuewe.com](mailto:mail@janstuewe.com)
+- **Time-to-sell Prediction (Audi)**: Deep learning model with 9-day error margin using GAMs.
+- **[Fake News Detection](https://github.com/jn-stw/ML_fakenews_detection)**: Reliable classification using classical ML and deep learning.
 
 ---
 
-Feel free to explore my portfolio or contact me for any opportunities, collaborations, or questions.
-
-
-<!--
-**jn-stw/jn-stw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect! 🤝  
+[🌐 Website](http://janstuewe.com) | [💼 LinkedIn](https://www.linkedin.com/in/jn-stw/) | [💻 GitHub](https://github.com/jn-stw) | [✉️ Email](mailto:mail@janstuewe.com)
