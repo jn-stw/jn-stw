@@ -37,25 +37,26 @@ I'm a **Data Scientist** with a strong foundation in **mathematics**, **statisti
 
 Here are some of the exciting projects I’ve worked on:
 
-1. **[Fake News Classification](https://github.com/jn-stw/ML_fakenews_detection)**  
-   - A project focused on classifying news as fake or true using both classical machine learning and modern deep learning approaches.
-   - Achieved highly reliable results with extensive data preprocessing and feature engineering.
-
-2. **Time-to-sell Prediction with Audi**  
+1. **Time-to-sell Prediction with Audi**  
    - Collaborated in a team of four to develop a deep learning model predicting the time it takes to sell cars.
    - Achieved a margin of error of just 9 days with interpretable results using a Generalized Additive Model (GAM).
 
+2. **[Fake News Classification](https://github.com/jn-stw/ML_fakenews_detection)**  
+   - A project focused on classifying news as fake or true using both classical machine learning and modern deep learning approaches.
+   - Achieved highly reliable results with extensive data preprocessing and feature engineering.
+   
 ---
 
 ## Let's Connect! 🤝
 
+- **Website**: [janstuewe.com](http://janstuewe.com)
 - **LinkedIn**: [linkedin.com/in/jn-stw](https://www.linkedin.com/in/jn-stw/)
 - **GitHub**: [github.com/jn-stw](https://github.com/jn-stw)
 - **Email**: [mail@janstuewe.com](mailto:mail@janstuewe.com)
 
 ---
 
-Feel free to explore my portfolio and projects here on GitHub or contact me for any opportunities, collaborations, or questions.
+Feel free to explore my portfolio or contact me for any opportunities, collaborations, or questions.
 
 
 <!--
