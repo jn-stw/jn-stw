@@ -4,7 +4,7 @@ I'm a **Data Scientist** with a strong foundation in **mathematics**, **statisti
 
 ---
 
-## Skills 🔧
+## Key Skills 🔧
 - **Languages**: Python, R, Matlab, SQL, HTML/CSS  
 - **Libraries**: Numpy, Pandas, Scikit-Learn, TensorFlow, Keras, PyTorch  
 - **Tools**: Git, Linux, LaTeX  
@@ -16,19 +16,6 @@ I'm a **Data Scientist** with a strong foundation in **mathematics**, **statisti
 ## Education 🎓
 **B.Sc. Data Science** – Catholic University Eichstätt-Ingolstadt  
 *Specialization: Applied Mathematics & Scientific Computing*
-
----
-
-## Experience 💼
-**Data Science Intern** – BMW AG, München (02/2025–04/2025)  
-- Clustering and statistical analysis of automotive data.
-- Applied stratified sampling for robust modeling.
-
----
-
-## Projects 🚀
-- **Time-to-sell Prediction (Audi)**: Deep learning model with 9-day error margin using GAMs.
-- **[Fake News Detection](https://github.com/jn-stw/ML_fakenews_detection)**: Reliable classification using classical ML and deep learning.
 
 ---
 
