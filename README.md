@@ -14,7 +14,9 @@ I'm a **Data Scientist** with a strong foundation in **mathematics**, **statisti
 ---
 
 ## Education 🎓
-**B.Sc. Data Science** – Catholic University Eichstätt-Ingolstadt  
+**M.Sc. Mathematics in Data Science** – Technical University Munich | 2025 - present
+
+**B.Sc. Data Science** – Catholic University Eichstätt-Ingolstadt | 2022 - 2025
 *Specialization: Applied Mathematics & Scientific Computing*
 
 ---
